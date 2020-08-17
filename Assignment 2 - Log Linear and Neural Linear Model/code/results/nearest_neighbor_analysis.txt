@@ -1,0 +1,25 @@
+Epoch 176 | running train ppl   1.8311 | val ppl   1.7691    
+Optimized Perplexity: 1.765332
+'m: session relief previously opened persuade strong work brought growing already 
+into: earned miss shape article released cheeseburgers involved through won for 
+medal: site ohno strategy draw iran agreed rooney out quarterfinals john 
+our: formal spanish national biggest financial from u.n. step available dinner 
+seeding: millions draw example sports michael faltered track market slip appeared 
+largest: consensus fourth efforts howard everything farmers oil hamelin resources approach 
+focus: tournament talks especially vacancies winner adviser war announcement months questions 
+enough: crisis conference 7-5 pollution semifinals juan 17 6-3 field ( 
+our: formal spanish national biggest financial from u.n. step available dinner 
+island: proposal working medals included injuries campaign iran ca palestinian continue 
+
+Epoch 123 | running train ppl   2.9655 | val ppl   2.7564    
+Optimized Perplexity: 2.738181
+regulatory: new close winning halter come any recovery example immediate legislation 
+squad: north chance stoke efforts want 27 following transportation guys led 
+finished: led authorities many central advanced miss seen begun taken these 
+out: more members part three really chile joint minister position agenda 
+carbon: cuba silver this title complex afp rogers china denotes now 
+met: best likely hope ghanaian events villa former authorities egypt protection 
+commentary: 1996 season lieberman santiago regulations tournament afp stronger owen sure 
+event: run draw milner tough seen too showed take reconciliation growing 
+tackle: like airport game 6-3 schumacher experience ghana : need tuesday 
+carlos: major cooperation talks winning between serious counterpart house increase being 

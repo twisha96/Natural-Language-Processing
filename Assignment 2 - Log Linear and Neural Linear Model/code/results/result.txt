@@ -1,0 +1,139 @@
+(venv_assignment) Twishas-MacBook-Pro:code twishanaik$ python3 assignment2.py 
+-------------------------------------------------------------------------------
+Using 113795 tokens for training (10% of 1137951)
+Using 11449 tokens for validation (10% of 114491)
+Using vocab size 10000 (excluding UNK) (original 11643)
+61144 feature types extracted
+99978 feature values cached for 99978 window types
+10000/113793 examples, avg loss 9.21037
+20000/113793 examples, avg loss 9.21031
+30000/113793 examples, avg loss 9.21024
+40000/113793 examples, avg loss 9.21018
+50000/113793 examples, avg loss 9.21011
+60000/113793 examples, avg loss 9.21005
+70000/113793 examples, avg loss 9.20997
+80000/113793 examples, avg loss 9.2099
+90000/113793 examples, avg loss 9.20983
+100000/113793 examples, avg loss 9.20978
+110000/113793 examples, avg loss 9.2097
+Epoch   1 | avg loss   9.2097 | running train ppl 9993.3576 | val ppl 9982.0075    ***new best val ppl***
+10000/113793 examples, avg loss 9.20874
+20000/113793 examples, avg loss 9.20865
+30000/113793 examples, avg loss 9.20862
+40000/113793 examples, avg loss 9.20856
+50000/113793 examples, avg loss 9.2085
+60000/113793 examples, avg loss 9.20841
+70000/113793 examples, avg loss 9.20835
+80000/113793 examples, avg loss 9.20829
+90000/113793 examples, avg loss 9.20821
+100000/113793 examples, avg loss 9.20815
+110000/113793 examples, avg loss 9.20809
+Epoch   2 | avg loss   9.2081 | running train ppl 9977.3068 | val ppl 9962.6994    ***new best val ppl***
+10000/113793 examples, avg loss 9.20713
+20000/113793 examples, avg loss 9.20697
+30000/113793 examples, avg loss 9.20696
+40000/113793 examples, avg loss 9.2069
+50000/113793 examples, avg loss 9.20684
+60000/113793 examples, avg loss 9.20679
+70000/113793 examples, avg loss 9.20673
+80000/113793 examples, avg loss 9.20668
+90000/113793 examples, avg loss 9.20662
+100000/113793 examples, avg loss 9.20655
+110000/113793 examples, avg loss 9.20645
+Epoch   3 | avg loss   9.2064 | running train ppl 9960.9546 | val ppl 9943.0543    ***new best val ppl***
+10000/113793 examples, avg loss 9.20578
+20000/113793 examples, avg loss 9.2056
+30000/113793 examples, avg loss 9.20552
+40000/113793 examples, avg loss 9.20542
+50000/113793 examples, avg loss 9.20525
+60000/113793 examples, avg loss 9.20516
+70000/113793 examples, avg loss 9.20508
+80000/113793 examples, avg loss 9.20499
+90000/113793 examples, avg loss 9.20495
+100000/113793 examples, avg loss 9.20487
+110000/113793 examples, avg loss 9.20479
+Epoch   4 | avg loss   9.2048 | running train ppl 9944.2816 | val ppl 9923.0506    ***new best val ppl***
+10000/113793 examples, avg loss 9.20354
+20000/113793 examples, avg loss 9.2035
+30000/113793 examples, avg loss 9.20347
+40000/113793 examples, avg loss 9.20335
+50000/113793 examples, avg loss 9.20331
+60000/113793 examples, avg loss 9.20335
+70000/113793 examples, avg loss 9.20332
+80000/113793 examples, avg loss 9.20327
+90000/113793 examples, avg loss 9.20319
+100000/113793 examples, avg loss 9.20314
+110000/113793 examples, avg loss 9.20305
+Epoch   5 | avg loss   9.2030 | running train ppl 9927.2664 | val ppl 9902.6642    ***new best val ppl***
+10000/113793 examples, avg loss 9.20242
+20000/113793 examples, avg loss 9.20223
+30000/113793 examples, avg loss 9.20214
+40000/113793 examples, avg loss 9.20201
+50000/113793 examples, avg loss 9.20186
+60000/113793 examples, avg loss 9.20174
+70000/113793 examples, avg loss 9.20169
+80000/113793 examples, avg loss 9.20154
+90000/113793 examples, avg loss 9.20151
+100000/113793 examples, avg loss 9.20145
+110000/113793 examples, avg loss 9.2013
+Epoch   6 | avg loss   9.2013 | running train ppl 9909.8852 | val ppl 9881.8681    ***new best val ppl***
+10000/113793 examples, avg loss 9.20055
+20000/113793 examples, avg loss 9.20046
+30000/113793 examples, avg loss 9.20052
+40000/113793 examples, avg loss 9.20027
+50000/113793 examples, avg loss 9.20009
+60000/113793 examples, avg loss 9.19998
+70000/113793 examples, avg loss 9.19986
+80000/113793 examples, avg loss 9.19978
+90000/113793 examples, avg loss 9.1997
+100000/113793 examples, avg loss 9.1996
+110000/113793 examples, avg loss 9.19951
+Epoch   7 | avg loss   9.1995 | running train ppl 9892.1112 | val ppl 9860.6322    ***new best val ppl***
+10000/113793 examples, avg loss 9.19809
+20000/113793 examples, avg loss 9.19826
+30000/113793 examples, avg loss 9.19815
+40000/113793 examples, avg loss 9.19805
+50000/113793 examples, avg loss 9.19788
+60000/113793 examples, avg loss 9.1979
+70000/113793 examples, avg loss 9.1978
+80000/113793 examples, avg loss 9.19782
+90000/113793 examples, avg loss 9.19781
+100000/113793 examples, avg loss 9.19775
+110000/113793 examples, avg loss 9.19768
+Epoch   8 | avg loss   9.1977 | running train ppl 9873.9143 | val ppl 9838.9221    ***new best val ppl***
+10000/113793 examples, avg loss 9.19598
+20000/113793 examples, avg loss 9.19583
+30000/113793 examples, avg loss 9.19636
+40000/113793 examples, avg loss 9.1963
+50000/113793 examples, avg loss 9.19627
+60000/113793 examples, avg loss 9.1964
+70000/113793 examples, avg loss 9.19626
+80000/113793 examples, avg loss 9.19618
+90000/113793 examples, avg loss 9.19607
+100000/113793 examples, avg loss 9.19596
+110000/113793 examples, avg loss 9.19583
+Epoch   9 | avg loss   9.1958 | running train ppl 9855.2603 | val ppl 9816.6990    ***new best val ppl***
+10000/113793 examples, avg loss 9.19442
+20000/113793 examples, avg loss 9.19434
+30000/113793 examples, avg loss 9.19461
+40000/113793 examples, avg loss 9.19448
+50000/113793 examples, avg loss 9.19439
+60000/113793 examples, avg loss 9.19417
+70000/113793 examples, avg loss 9.19418
+80000/113793 examples, avg loss 9.19393
+90000/113793 examples, avg loss 9.19379
+100000/113793 examples, avg loss 9.19391
+110000/113793 examples, avg loss 9.19384
+Epoch  10 | avg loss   9.1938 | running train ppl 9836.1106 | val ppl 9793.9183    ***new best val ppl***
+Optimized Perplexity: 9793.918343
+-------------------------------------------------------------------------------
+       161: c-1=.^w=``                               (  0.4450)
+       607: c-1=of^w=the                             (  0.4257)
+       268: c-1=in^w=the                             (  0.3569)
+       158: c-1=,^w=''                               (  0.2777)
+        52: c-1=.^w=the                              (  0.2723)
+       148: c-1=.^w=''                               (  0.2028)
+       187: c-1=,^w=the                              (  0.1463)
+       624: c-1=to^w=the                             (  0.1384)
+        84: c-1=on^w=the                             (  0.1246)
+       173: c-1=,^w=and                              (  0.1165)

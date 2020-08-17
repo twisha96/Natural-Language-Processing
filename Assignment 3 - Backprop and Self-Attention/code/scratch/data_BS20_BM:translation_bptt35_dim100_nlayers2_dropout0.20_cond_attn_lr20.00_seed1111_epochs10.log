@@ -1,0 +1,38 @@
+main.py --train --cond --batch_method translation --attn
+
+Building data from ./data...
+      batch_size: 20
+batch_size_valid: 60
+    batch_method: translation      (no sorting by target lengths)
+          device: cpu
+  is_conditional: True
+
+15 batches
+5 batches
+
+vocab_size: 1282
+
+train.txt
+              # words: 6681
+               # seqs: 300
+  avg/max/min lengths: 22/72/3
+
+src-train.txt
+              # words: 6081
+               # seqs: 300
+  avg/max/min lengths: 20/70/1
+
+Seq2Seq
+      # parameters: 522682
+        vocab_size: 1282
+               dim: 100
+          # layers: 2
+    is_conditional: 1
+     bidirectional: 0
+        use_bridge: 0
+     use_attention: 1
+
+Control
+            lr: 20.00
+          bptt: 35
+

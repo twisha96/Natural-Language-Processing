@@ -13,4 +13,7 @@ Project:
 Not all attention is needed - Gated Attention Network for Sequence Data (GA-Net)  
 https://arxiv.org/abs/1912.00349
 
-<img src=“”>
+<img src=“https://github.com/twisha96/Natural-Language-Processing/blob/master/images/flow_dia.png”>  
+<img src=“https://github.com/twisha96/Natural-Language-Processing/blob/master/images/attention.png">  
+<img src=“https://github.com/twisha96/Natural-Language-Processing/blob/master/images/gate_prob_and_attn.png”>  
+                                                                                                   
